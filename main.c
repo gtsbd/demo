@@ -10,5 +10,6 @@ int main()
 	printf("hello world2");
 	printf("hello world2");
 	printf("hello world2");
-	
+
+	printf("hello");
 }
